@@ -1,7 +1,7 @@
 # A Synthetic Dog Video Dataset for Temporal Pose Estimation 
 
 ### Description 
-This work was presented at the [CV4Animals] (https://www.cv4animals.com) workshop 2022 and was published in IJCV.
+This work was presented at the [CV4Animals](https://www.cv4animals.com) workshop 2022 and was published in IJCV.
 
 **[paper](https://link.springer.com/article/10.1007/s11263-023-01946-z)**
 
