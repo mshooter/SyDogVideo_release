@@ -14,6 +14,7 @@ Download the data from the following [link](https://cvssp.org/data/SyDogVideo/)
 - [ ] Release of the training and testing code. 
 
 ## Citation 
+```
 @article{Shooter2023,
 author={Shooter, Moira
 and Malleson, Charles
@@ -28,6 +29,6 @@ issn={1573-1405},
 doi={10.1007/s11263-023-01946-z},
 url={https://doi.org/10.1007/s11263-023-01946-z}
 }
-
+```
 ## Contact information 
 Please contact [Moira Shooter](m.shooter@surrey.ac.uk) for enquiries.
